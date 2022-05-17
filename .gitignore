@@ -1,0 +1,7 @@
+.Rproj.user
+data-raw/cjpg
+data-raw/*.rds
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
